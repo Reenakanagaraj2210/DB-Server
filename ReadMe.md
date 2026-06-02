@@ -70,6 +70,14 @@ NAME:Reena K
 
 Include your Screenshots Here.
 
+<img width="1629" height="789" alt="image" src="https://github.com/user-attachments/assets/35c593cc-8377-46ad-9407-be795d89988c" />
+
+<img width="1629" height="816" alt="image" src="https://github.com/user-attachments/assets/6d13edd0-c813-43d6-8a9c-87b3e6d27098" />
 
 
-RESULT
+<img width="1621" height="882" alt="image" src="https://github.com/user-attachments/assets/dff78192-9a22-4aae-8ebf-fc3bcae5d5c1" />
+
+RESULT:
+
+Thus, the Security Group and DB Subnet Group were successfully created, the Amazon RDS DB Instance was launched successfully, and interaction with the database was performed successfully.
+
